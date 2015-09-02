@@ -1,0 +1,6 @@
+{
+  "name": "Slash Commands",
+  "description": "Some publically available slash commands (e.g. `/weather`) for Slack.",
+  "repository": "https://github.com/ruddfawcett/slashcmds",
+  "keywords": ["slashcmds", "slack", "commands"]
+}
